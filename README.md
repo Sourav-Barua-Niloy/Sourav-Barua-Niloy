@@ -10,8 +10,10 @@ Welcome to my GitHub! I am a passionate UI/UX designer and frontend developer wi
 
 ### Programming Languages:
 - C
+- JavaScript
+- CSS
 - Python
-- HTML, CSS, JavaScript
+- HTML
 
 ### Frameworks & Libraries:
 - Tailwind CSS
