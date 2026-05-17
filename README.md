@@ -73,18 +73,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education
 
 **B.Sc. in Computer Science & Engineering** — Port City International University (2020–2024)
