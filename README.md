@@ -1,70 +1,109 @@
-# Sourav Barua
+# 👋 Hi, I'm Sourav Barua Niloy
 
-### 👨‍💻 UI/UX Designer | Front-End Developer | Computer Science Engineer
+**Frontend Developer · UI/UX Designer · ML Researcher**
 
-Welcome to my GitHub! I am a passionate UI/UX designer and frontend developer with over 3 years of experience. My expertise includes creating user-friendly designs and responsive websites. Check out my projects to see my work in action.
+> Building responsive web apps with React & Next.js · Published IEEE researcher in NLP & Explainable AI · Based in Chattogram, Bangladesh 🇧🇩
 
----
-
-## 🛠 Skills and Technologies
-
-### Programming Languages:
-- C
-- JavaScript
-- CSS
-- Python
-- HTML
-
-### Frameworks & Libraries:
-- Tailwind CSS
-- Bootstrap
-- React.js
-- Node.js
-
-### Tools:
-- Git
-- VS Code
-- Figma
-- Sketch
-
-### Database:
-- MongoDB
+[![Gmail](https://img.shields.io/badge/Gmail-baruasourav.office%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:baruasourav.office@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
 
 ---
 
-## 📚 Education
+## 🚀 About Me
 
-### Bachelor’s in Computer Science & Engineering  
-**Port City International University, Chittagong (2020 - 2024)**  
-CGPA: 3.34 / 4.00  
-
----
-
-## 🏆 Certifications
-- **Complete Web Development** – Programming Hero  
-- **UI/UX Design Fundamentals** – Ostad  
-- **Data Analytics** – Bohubrihi  
+- 🔭 Currently working as a **Frontend Developer at Softrobotics** — building high-performance web apps with React.js & Next.js
+- 🧠 Author of **3 IEEE conference papers** in Machine Learning, NLP, and Explainable AI
+- 🎨 Background in UI/UX design for Android, iOS & web (Figma, Adobe Suite)
+- 🌱 Always exploring the intersection of **design, frontend engineering, and AI**
+- 📍 Chattogram, Bangladesh
 
 ---
 
-## 💼 Experience
+## ⚡ Tech Stack
 
-### UX/UI Designer at GFX Production (Sep 2024 - Present)
-- Designing visually appealing graphics for digital platforms.  
-- Leading UI/UX design projects and developing prototypes.  
+**Frontend**
 
-### Frontend Developer Intern at Devenport (Feb 2022 - Jul 2022)
-- Built and maintained user-friendly web applications.  
-- Collaborated with designers to create responsive interfaces.  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+**AI / ML & Research**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+
+**Design**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🌐 Connect With Me:
-- [LinkedIn](https://www.linkedin.com/in/sourav-barua-niloy-8915742a1/)  
-- [GitHub](https://github.com/Sourav-Barua-Niloy)  
+## 📄 Research Publications
+
+| # | Title | Venue | Role |
+|---|-------|-------|------|
+| 1 | [Next-Generation Stock Prediction: Integrating Time Series with Machine and Deep Learning Techniques](#) | IEEE COMPAS 2025 | **First Author** |
+| 2 | [BanHSD: Bangla Hate Speech Detection Using Deep Learning and Transformers with Explainability](#) | IEEE ICCCNT 2025 | Co-Author |
+| 3 | [A Stacking Ensemble Framework for Predicting Employee Turnover: Explainable AI with SHAP](#) | IEEE ICCCNT 2025 | Co-Author |
+
+> 📌 *Replace `#` with actual IEEE DOI/paper links once available*
 
 ---
 
-## 📞 Contact Me
-- **Email:** baruasourav.office@gmail.com  
-- **Phone:** +880 1852824860  
+## 💼 Work Experience
+
+```
+🟢 Frontend Developer    — Softrobotics Bangladesh        (Mar 2026 – Present)
+🔵 Fellow, ICT           — ActionAid Bangladesh           (May 2025 – Jan 2026)
+🟣 UI Designer           — Devenport IT                   (May 2022 – Sep 2023)
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Computer Science & Engineering** — Port City International University (2020–2024)
+CGPA: 3.34 / 4.00
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baruasourav.office@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+
+</div>
+
+---
+
+<div align="center">
+<sub>⚡ Open to frontend dev roles & ML research collaborations · Let's build something great together!</sub>
+</div>
