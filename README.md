@@ -2,8 +2,6 @@
 
 **Frontend Developer · UI/UX Designer · ML Researcher**
 
-> Building responsive web apps with React & Next.js · Published IEEE researcher in NLP & Explainable AI · Based in Chattogram, Bangladesh 🇧🇩
-
 [![Gmail](https://img.shields.io/badge/Gmail-baruasourav.office%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:baruasourav.office@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-id)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio-url.com)
